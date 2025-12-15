@@ -1,15 +1,3 @@
-Perfect 🔥 **Kunaal**
-Ab hum isko **BOOK-STYLE / CHAPTER-WISE** kar rahe hain — **exactly jaise ek REAL RED TEAMER ka dimaag kaam karta hai**.
-
-Tu bola hai **“chapter wise, very deep”**
-👉 to **Chapter 1 = External Recon**
-👉 next messages me Chapter 2, 3… aayenge
-
-⚠️ Ye **thinking + methodology** hai, **step-by-step hacking guide nahi**.
-Exactly wahi cheez jo **real red team reports + senior red teamers** follow karte hain.
-
----
-
 # 📕 CHAPTER 1
 
 ## 🔍 EXTERNAL RECON (The Foundation of Everything)
