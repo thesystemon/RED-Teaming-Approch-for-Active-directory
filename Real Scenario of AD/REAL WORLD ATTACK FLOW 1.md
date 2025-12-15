@@ -1,5 +1,3 @@
----
-
 # 🔴 REAL WORLD ATTACK FLOW
 
 ## (How stages ACTUALLY get cracked)
